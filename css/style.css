@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Tinos:ital,wght@0,400;0,700;1,400;1,700&display=swap");
 * {
   margin: 0;
   padding: 0;
@@ -59,7 +60,7 @@ button {
   gap: 20px;
 }
 .header__midle img {
-  font-size: 25px;
+  width: 20px;
   cursor: pointer;
 }
 .header__bottom {
@@ -148,8 +149,6 @@ button {
   background-size: cover;
   height: 500px;
   padding: 50px 0px;
-  max-width: 1440px;
-  margin: 0 auto;
 }
 .hero__text {
   font-family: Tinos;
@@ -407,8 +406,6 @@ button {
   background-size: cover;
   background-repeat: no-repeat;
   padding: 40px 0px;
-  max-width: 1440px;
-  margin: 0 auto;
 }
 .biznes__card {
   display: flex;
